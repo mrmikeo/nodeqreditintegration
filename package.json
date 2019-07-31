@@ -8,6 +8,9 @@
     "url": "git+https://github.com/mrmikeo/nodeqreditintegration.git"
   },
   "dependencies": {
+    "nodeQaeApi": "git+https://github.com/mrmikeo/nodeqaeapi.git",
+    "nodeQreditApi": "git+https://github.com/mrmikeo/nodeqreditapi.git",
+    "qreditjs": "git+https://github.com/Qredit/qredit-js.git",
     "request": "^2.88.0"
   },
   "devDependencies": {},
