@@ -1,0 +1,19 @@
+{
+  "name": "nodeQreditIntegration",
+  "version": "0.0.1",
+  "description": "This package file is for all the dependencies for the Node Qredit Integration Examples",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmikeo/nodeqreditintegration.git"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Osullivan",
+  "license": "MIT"
+}
